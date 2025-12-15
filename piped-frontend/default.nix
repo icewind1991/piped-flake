@@ -13,6 +13,7 @@
   doPnpmDeps = hash:
     pnpm.fetchDeps {
       inherit pname version src hash;
+      fetcherVersion = 1;
     };
 
   pnpmDeps = doPnpmDeps (builtins.fromJSON (builtins.readFile ./npmDepsHash.json));
