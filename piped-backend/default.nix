@@ -3,7 +3,6 @@
 }:
 
 let
-   
   pname = "piped-backend";
 
   inherit src;
@@ -17,6 +16,12 @@ let
     nativeBuildInputs = [ gradle ];
 
     patches = [ ./0001-run-matrix-loop-conditionally.patch ] ++ extraPatches;
+
+    postPatch = ''
+      substituteInPlace build.gradle --replace-fail \
+        "implementation 'com.github.FireMasterK:NewPipeExtractor:92809cedefd89ce68bc4de8763e9d5f2760f5899'" \
+        "implementation 'com.github.TeamNewPipe:NewPipeExtractor:v0.25.0'"
+    '';
 
     mitmCache = gradle.fetchDeps {
       pkg = self;
