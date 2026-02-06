@@ -2,18 +2,14 @@
  "!comment": "This is a nixpkgs Gradle dependency lockfile. For more details, refer to the Gradle section in the nixpkgs manual.",
  "!version": 1,
  "https://jitpack.io/com/github": {
-  "AudricV#NewPipeExtractor/17d6e5c5afb7e30506c5f809e96d68ef43f2f31c": {
-   "jar": "sha256-fL75C09/jSIs84xmj3TUyteTdlrAxH4m2iyNlLzClnc=",
-   "module": "sha256-fz+JPSu3EhvwqBrqtzJQwUI1WT93AmEXOIbrhlx0dQo=",
-   "pom": "sha256-20czj4uefM4pdM++TPMWxcqKZXdJLfBOekHfwCfof78="
-  },
   "FireMasterK#nanojson/a507525e549a836c3a8b6ab7090dca38e92942ef": {
    "jar": "sha256-so+slrX/f1gz8QZSMtNDQ25UPnoHBP7Zj3nKnqrYTz0=",
    "pom": "sha256-Xo/rgHVyAwUeBS7ED45akH539ejdGsGe54yv4EDZFp0="
   },
-  "TeamNewPipe#nanojson/e9d656ddb49a412a5a0a5d5ef20ca7ef09549996": {
-   "jar": "sha256-1JWIGjIrPHLl1DKEr9fXAhUgAoyot8a6hh4/2NkGFNU=",
-   "pom": "sha256-MQ5tTcXa3D0JXViOjt0sBj683ejk1Uabgvnx+jK2R7E="
+  "jollySleeper#NewPipeExtractor/4b7752bff41e7b8982af1fad9b167b0e719ba4da": {
+   "jar": "sha256-uPXe/Ntc36ldQ8IqBm1BN30SEZZPhrCqNRr4kv2Nzmo=",
+   "module": "sha256-KM4JLwk3xCuYViFJ3WuG02R1COEXXzy6tBMXqNfggkA=",
+   "pom": "sha256-GUmoVqAktXUNhoK6Bm0IUPYRa/bBE8y7ckLIDvT9Pyc="
   }
  },
  "https://plugins.gradle.org/m2": {

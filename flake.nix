@@ -24,7 +24,7 @@
   };
 
   outputs = inputs@{ self, nixpkgs, flake-utils, ... }:
-  
+
   {
     nixosModules.default = { ... }: {
       imports = [
@@ -34,7 +34,7 @@
       ];
     };
   } //
-  
+
   flake-utils.lib.eachDefaultSystem (system:
 
     let

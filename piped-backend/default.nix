@@ -20,7 +20,7 @@ let
     postPatch = ''
       substituteInPlace build.gradle --replace-fail \
         "implementation 'com.github.FireMasterK:NewPipeExtractor:92809cedefd89ce68bc4de8763e9d5f2760f5899'" \
-        "implementation 'com.github.AudricV:NewPipeExtractor:17d6e5c5afb7e30506c5f809e96d68ef43f2f31c'"
+        "implementation 'com.github.jollySleeper:NewPipeExtractor:4b7752bff41e7b8982af1fad9b167b0e719ba4da'"
     '';
 
     mitmCache = gradle.fetchDeps {
