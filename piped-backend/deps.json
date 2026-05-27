@@ -2,10 +2,10 @@
  "!comment": "This is a nixpkgs Gradle dependency lockfile. For more details, refer to the Gradle section in the nixpkgs manual.",
  "!version": 1,
  "https://jitpack.io/com/github": {
-  "TeamNewPipe#NewPipeExtractor/v0.26.1": {
-   "jar": "sha256-+k0IwdIkyumlJNnQnmvO+D4bS0g5ey6FKEMDb3SuZSU=",
-   "module": "sha256-Su7NDBkNIBF7TfARSCwfHcfmGD9AmoA/7LOEU3uhAQg=",
-   "pom": "sha256-Z4x8VshcxZyjQAwlwWgQwHuP/GThSdUvBxVwd8vGFQM="
+  "TeamNewPipe#NewPipeExtractor/v0.26.2": {
+   "jar": "sha256-Vpf/NjKIceRcmHyNqjRVZGnojDckm0nBS7eYj7HAtW0=",
+   "module": "sha256-4Um9OtcMkPmSyUpaf4HgGNX+K8Qfti/il0VClMany/Y=",
+   "pom": "sha256-d//81G6+K4wn1PK7yhBtWP9EK6nNPepqdtbuPY96rPk="
   },
   "TeamNewPipe#nanojson/c7a6c1c08d16b6d5ecded34758e6415e07be2166": {
    "jar": "sha256-VNIb60u8MYV0gyMI8mxa9tIZRlJnVGUrCUBQaa7Hfpg=",
@@ -219,15 +219,15 @@
    "jar": "sha256-iCQVc0Z93KRP/U10qgTCu/0Rv3wX4MNCyUyd56cKfGQ=",
    "pom": "sha256-I7PQOeForYndEUaY5t1744P0osV3uId9gsc6ZRXnShc="
   },
-  "com/google/protobuf#protobuf-bom/4.34.1": {
-   "pom": "sha256-VDLNrdXSFwHQuJ2TtY9MT3Y4saFOgcCCKjTuzYRspzk="
+  "com/google/protobuf#protobuf-bom/4.35.0": {
+   "pom": "sha256-N0ORfVkkN06cmyW4kft2o4vwV3fDVz3iJupGKybhBiU="
   },
-  "com/google/protobuf#protobuf-javalite/4.34.1": {
-   "jar": "sha256-z7wgJT/Yw2W3S9Y/j5C5DvkgBbZhnOYpw+7zmwr+8Zc=",
-   "pom": "sha256-op8gGdlWANJUiBEOFCH9o7+SV5H0ZYLVcIr5P/kx5fQ="
+  "com/google/protobuf#protobuf-javalite/4.35.0": {
+   "jar": "sha256-HP4eHXkYrmKgI03BIxQG5MQRVL8proHhE/IPvCUH3RA=",
+   "pom": "sha256-h4LsiUiveyotJE+bL8xJPatVHTHW9CGGW3EE7FSqZ7Y="
   },
-  "com/google/protobuf#protobuf-parent/4.34.1": {
-   "pom": "sha256-f1DgrPUsF0kcTTNK45VWColDG33pAs8osyxNTAOEiZk="
+  "com/google/protobuf#protobuf-parent/4.35.0": {
+   "pom": "sha256-Wzx1NNKw5BBatwbkEFQOBN5n2u9zJm6j/cvzeepNqDU="
   },
   "com/opencsv#opencsv/5.11.2": {
    "jar": "sha256-aQ2q2QFPI6/Tq28bDEWl4Lc4rDeo0ugQ4ZYZOqtSEkU=",
@@ -404,6 +404,9 @@
    "jar": "sha256-nNQ+qMeco8bOgefUvoHFyBFf69J1D0k/aZ+kG5LiCbM=",
    "module": "sha256-3EdpLzxd1WJNeRYseiS8Zaw1kkiwpVJnZzBQZh0UA4I=",
    "pom": "sha256-fProNw0T6zLyByH3wuvcznVGyZ7wkg7ZzMJiI3xxSF8="
+  },
+  "io/netty#netty-bom/4.2.12.Final": {
+   "pom": "sha256-Sx6sh5HJMaM9ni+4wINDJVLPh0adtBm30kNBeONPBww="
   },
   "io/sentry#sentry/8.19.1": {
    "jar": "sha256-C8udFKYqldae7JnSpmmYqFPiy+ngdvUI4yoZiu3On+g=",
@@ -604,9 +607,9 @@
    "jar": "sha256-8FSW4lVzR1nw1LVjLaeyT4ExMUfHjGnpCtBF0JYZE0Q=",
    "pom": "sha256-S74tJSipD5l8QK7ztitRn9NzxWBXtU/7CGzCvvAe9EY="
   },
-  "org/jsoup#jsoup/1.22.1": {
-   "jar": "sha256-z9MpjYcgzd+wVFEJzMbqDvOe/36cQKEK2VyTpl8ByRY=",
-   "pom": "sha256-icQhPWFSommUCMqkQK9QUKiZBzyCui3zei9fXu2o4WA="
+  "org/jsoup#jsoup/1.22.2": {
+   "jar": "sha256-WWeFmW08bfFvVEwjLRCpodiHg7KkdAz1JRy2FvK+cE0=",
+   "pom": "sha256-VPq5kKDvVilwiMJSIT+oM5T6/O+lFgWQRMCeOo4F5VI="
   },
   "org/junit#junit-bom/5.11.0-M2": {
    "module": "sha256-hkd6vPSQ1soFmqmXPLEI0ipQb0nRpVabsyzGy/Q8LM4=",
