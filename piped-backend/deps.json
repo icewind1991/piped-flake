@@ -2,10 +2,10 @@
  "!comment": "This is a nixpkgs Gradle dependency lockfile. For more details, refer to the Gradle section in the nixpkgs manual.",
  "!version": 1,
  "https://jitpack.io/com/github": {
-  "TeamNewPipe#NewPipeExtractor/v0.26.2": {
-   "jar": "sha256-Vpf/NjKIceRcmHyNqjRVZGnojDckm0nBS7eYj7HAtW0=",
-   "module": "sha256-4Um9OtcMkPmSyUpaf4HgGNX+K8Qfti/il0VClMany/Y=",
-   "pom": "sha256-d//81G6+K4wn1PK7yhBtWP9EK6nNPepqdtbuPY96rPk="
+  "MonseyNY#NewPipeExtractor/7ccf36f47329b76e275e19c460b464454a1f81fa": {
+   "jar": "sha256-K7/OIcqZ/3Ua4jBAgF+O8ehlHjThpieLGOgP65AwdxY=",
+   "module": "sha256-ljxQeA+xzsPMUf1f269pVG+Ic/urJBtW4UHj2aNKAsk=",
+   "pom": "sha256-d+jlEXbp/mFY5nu9Yc+wQ6DH+4B1ppSNS06HpDiIBIg="
   },
   "TeamNewPipe#nanojson/c7a6c1c08d16b6d5ecded34758e6415e07be2166": {
    "jar": "sha256-VNIb60u8MYV0gyMI8mxa9tIZRlJnVGUrCUBQaa7Hfpg=",
