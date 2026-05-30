@@ -2,18 +2,14 @@
  "!comment": "This is a nixpkgs Gradle dependency lockfile. For more details, refer to the Gradle section in the nixpkgs manual.",
  "!version": 1,
  "https://jitpack.io/com/github": {
-  "MonseyNY#NewPipeExtractor/7ccf36f47329b76e275e19c460b464454a1f81fa": {
-   "jar": "sha256-K7/OIcqZ/3Ua4jBAgF+O8ehlHjThpieLGOgP65AwdxY=",
-   "module": "sha256-ljxQeA+xzsPMUf1f269pVG+Ic/urJBtW4UHj2aNKAsk=",
-   "pom": "sha256-d+jlEXbp/mFY5nu9Yc+wQ6DH+4B1ppSNS06HpDiIBIg="
+  "FireMasterK#NewPipeExtractor/c83884eb5d2e9f077348acec3a2d9e9dc920ae91": {
+   "jar": "sha256-5TdQHxt0Ihq+9VklOdEptBiC7x06t31Za/n+5hxOk5M=",
+   "module": "sha256-SCjv/9soxbDfQFaZUezQkEO9Olm9PBjPhgYcdG2zBQM=",
+   "pom": "sha256-08cha35Foy7uf99l0w8KgPk6R1qyWne68PavD8csxs0="
   },
-  "TeamNewPipe#nanojson/c7a6c1c08d16b6d5ecded34758e6415e07be2166": {
-   "jar": "sha256-VNIb60u8MYV0gyMI8mxa9tIZRlJnVGUrCUBQaa7Hfpg=",
-   "pom": "sha256-E34ll5y3KouVg7pI0xXzDFSXp2IrSZ8m07sNQgq3XK0="
-  },
-  "TeamNewPipe#nanojson/e9d656ddb49a412a5a0a5d5ef20ca7ef09549996": {
-   "jar": "sha256-1JWIGjIrPHLl1DKEr9fXAhUgAoyot8a6hh4/2NkGFNU=",
-   "pom": "sha256-MQ5tTcXa3D0JXViOjt0sBj683ejk1Uabgvnx+jK2R7E="
+  "FireMasterK#nanojson/a507525e549a836c3a8b6ab7090dca38e92942ef": {
+   "jar": "sha256-so+slrX/f1gz8QZSMtNDQ25UPnoHBP7Zj3nKnqrYTz0=",
+   "pom": "sha256-Xo/rgHVyAwUeBS7ED45akH539ejdGsGe54yv4EDZFp0="
   }
  },
  "https://plugins.gradle.org/m2": {
@@ -426,6 +422,10 @@
   "it/unimi/dsi#fastutil-core/8.5.16": {
    "jar": "sha256-7Hxa25T6pilLtbGuvd9RkmBm/XgbkZtID2jVW1x7r6E=",
    "pom": "sha256-E3E3FKolKxAwiJVlkjbiknlz1htFCBNdCpDF/4VzaHc="
+  },
+  "it/unimi/dsi#fastutil/8.5.16": {
+   "jar": "sha256-MXocJiUtosb1yzJFTimV9rk5QPCcZkKWmjMMa5/2c0I=",
+   "pom": "sha256-ZtT76nqIlEDB/K4Ph07h1csFBADSZb9pzwA+3BiQMHI="
   },
   "jakarta/activation#jakarta.activation-api/2.1.0": {
    "pom": "sha256-hw0qdcyS4K7Dfo0WNxBVLTVDGJ6B6cqQCaMl33YMKwY="
